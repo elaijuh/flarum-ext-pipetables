@@ -2,8 +2,8 @@
 	"name": "elaijuh/flarum-ext-pipetables",
 	"description": "Provides enhanced typography.",
 	"type": "flarum-extension",
-	"keywords": ["flarum","typography"],
-	"version": "1.0.0",
+	"keywords": ["flarum","textformat"],
+	"version": "0.1.0",
 	"author": {
 		"name": "elaijuh"
 	},
